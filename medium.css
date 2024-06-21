@@ -1,0 +1,15 @@
+* {
+    font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.col-10 a , .col-9 a , .col-12 a , .col-8 a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+li .etiket{
+  background-color: rgba(242, 242, 242, 1);
+  font-size: 13px;
+  
+}
